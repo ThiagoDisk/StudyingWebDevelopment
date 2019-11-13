@@ -8,7 +8,6 @@ console.log(prod1)
 const  prod2  ={
     nome:"Camisa polo",
     preco: 79.9,
-
 }
 
 console.log(prod2)
